@@ -1,0 +1,19 @@
+{
+  "ids": {
+    "hero": 22
+  },
+  "models": {
+    "hero": {
+      "11": "{\"name\":\"Mr. Nice\",\"id\":11}",
+      "12": "{\"name\":\"Narco\",\"id\":12}",
+      "13": "{\"name\":\"Bombasto\",\"id\":13}",
+      "14": "{\"name\":\"Celeritas\",\"id\":14}",
+      "15": "{\"name\":\"Magneta\",\"id\":15}",
+      "16": "{\"name\":\"RubberMan\",\"id\":16}",
+      "17": "{\"name\":\"Dynama\",\"id\":17}",
+      "18": "{\"name\":\"Dr IQ\",\"id\":18}",
+      "19": "{\"name\":\"Magma\",\"id\":19}",
+      "20": "{\"name\":\"Tornado\",\"id\":20}"
+    }
+  }
+}
