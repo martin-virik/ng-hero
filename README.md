@@ -1,5 +1,16 @@
 # NgHero
 
+## Before you start
+
+Few things to keep in mind before you start.
+
+Use angular-cli to setup a server https://cli.angular.io/
+Use `app-root` instead of `my-app` as the selector for AppComponent
+Instead of setting a `template` property, set `tempalteUrl` and use separate file for the html
+Instead of setting a `style` property, set `styleeUrl` and use separate file for the css
+
+install the TypeScript Hero  plugin for ts in VSCode
+
 This project was generated with [angular-cli](https://github.com/angular/angular-cli) version 1.0.0-beta.26.
 
 ## Development server
