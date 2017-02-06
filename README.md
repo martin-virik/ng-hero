@@ -9,7 +9,7 @@ Few things to keep in mind before you start.
 3. Instead of setting a `template` property, set `tempalteUrl` and use separate file for the html.
 4. Instead of setting a `style` property, set `styleeUrl` and use separate file for the css.
 
-install the TypeScript Hero  plugin for ts in VSCode
+And to make thing easier, install the TypeScript Hero  plugin for ts in VSCode
 
 This project was generated with [angular-cli](https://github.com/angular/angular-cli) version 1.0.0-beta.26.
 
